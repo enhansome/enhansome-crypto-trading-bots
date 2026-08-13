@@ -1,0 +1,977 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "freqtrade",
+          "description": "Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:31:00Z",
+            "owner": "freqtrade",
+            "repo": "freqtrade",
+            "stars": 53256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nautilus",
+          "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T21:42:20Z",
+            "owner": "nautechsystems",
+            "repo": "nautilus_trader",
+            "stars": 25465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backtrader",
+          "description": "A feature-rich Python framework for backtesting and trading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-19T17:47:36Z",
+            "owner": "mementum",
+            "repo": "backtrader",
+            "stars": 22837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gekko",
+          "description": "DEPRECATED - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-02-16T14:25:26Z",
+            "owner": "askmike",
+            "repo": "gekko",
+            "stars": 10186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jesse",
+          "description": "Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:49:19Z",
+            "owner": "jesse-ai",
+            "repo": "jesse",
+            "stars": 8314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zenbot",
+          "description": "Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2022-02-14T16:11:27Z",
+            "owner": "DeviaVir",
+            "repo": "zenbot",
+            "stars": 8258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octobot",
+          "description": "Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:21:19Z",
+            "owner": "Drakkar-Software",
+            "repo": "OctoBot",
+            "stars": 6390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptoSignal",
+          "description": "Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-07T15:33:11Z",
+            "owner": "CryptoSignal",
+            "repo": "Crypto-Signal",
+            "stars": 5613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superalgos",
+          "description": "Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:03:03Z",
+            "owner": "Superalgos",
+            "repo": "Superalgos",
+            "stars": 5611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "K",
+          "description": "K is a very low latency market making trading bot with a fully featured web interface. It can place and cancel orders on one of several supported cryptocoin exchanges in less than a few miliseconds per order on a decent machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-15T15:26:06Z",
+            "owner": "ctubio",
+            "repo": "Krypto-trading-bot",
+            "stars": 3708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crypto-trading-bot",
+          "description": "Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T09:16:05Z",
+            "owner": "Haehnchen",
+            "repo": "crypto-trading-bot",
+            "stars": 3511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTrader",
+          "description": "Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT. Production-grade Rust-native trading engine with deterministic event-driven architecture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-29T16:24:33Z",
+            "owner": "Open-Trader",
+            "repo": "opentrader",
+            "stars": 2817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intelligent Trading Bot",
+          "description": "Automatically generating signals and trading based on machine learning and feature engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T10:14:30Z",
+            "owner": "asavinov",
+            "repo": "intelligent-trading-bot",
+            "stars": 1845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BVA",
+          "description": "A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-19T19:20:27Z",
+            "owner": "bitcoinvsalts",
+            "repo": "node-binance-trader",
+            "stars": 1223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kelp",
+          "description": "Kelp is a free and open-source market making bot for the Stellar universal marketplace and for centralized exchanges such as Binance, Kraken, CoinbasePro, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-11-03T05:46:15Z",
+            "owner": "stellar-deprecated",
+            "repo": "kelp",
+            "stars": 1125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QtBitcoinTrader",
+          "description": "Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-25T18:26:27Z",
+            "owner": "JulyIghor",
+            "repo": "QtBitcoinTrader",
+            "stars": 796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WolfBot",
+          "description": "Crypto currency trading bot written in TypeScript for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-17T02:36:27Z",
+            "owner": "Ekliptor",
+            "repo": "WolfBot",
+            "stars": 787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cassandre",
+          "description": "Cassandre makes it easy to create and run a Java crypto trading bot. Cassandre takes care of exchange connections, accounts, orders, and position management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-03-01T02:25:36Z",
+            "owner": "cassandre-tech",
+            "repo": "cassandre-trading-bot",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fast-trade",
+          "description": "Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T14:53:00Z",
+            "owner": "jrmeier",
+            "repo": "fast-trade",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magic8bot",
+          "description": "Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T04:08:38Z",
+            "owner": "magic8bot",
+            "repo": "magic8bot",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "binance-futures-trading-bot",
+          "description": "Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-13T00:30:33Z",
+            "owner": "Erfaniaa",
+            "repo": "binance-futures-trading-bot",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "the0",
+          "description": "Self-hosted execution engine for algorithmic trading bots. Write your strategy in Python, TypeScript, Rust, C++, C#, Scala, or Haskell and deploy with one command. Each bot runs in an isolated container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:51:56Z",
+            "owner": "alexanderwanyoike",
+            "repo": "the0",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bTrader",
+          "description": "A very low setup and simple to use triangular arbitrage trading bot for Binance, developed in Rust for maximum performance.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-05-30T18:29:56Z",
+            "owner": "gabriel-milan",
+            "repo": "btrader",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wolfinch",
+          "description": "A Python trading bot supporting algorithmic trading for equity market and cryptocurrency exchanges. The modularized implementation is easily extensible to support more exchanges, trading strategies and indicators. A simple UI is available out of the box to view trades and allow basic controls in operation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T01:23:36Z",
+            "owner": "wolfinch",
+            "repo": "wolfinch",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hummingbot",
+          "description": "Hummingbot is an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-07T20:09:15Z",
+            "owner": "CoinAlpha",
+            "repo": "hummingbot",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crypto-trading-strategy-backtester",
+          "description": "Easy-to-use cryptocurrency trading strategy simulator and backtester",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-26T23:01:05Z",
+            "owner": "Erfaniaa",
+            "repo": "crypto-trading-strategy-backtester",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solie",
+          "description": "The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-28T20:39:42Z",
+            "owner": "cunarist",
+            "repo": "solie",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planar",
+          "description": "Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-12T17:02:53Z",
+            "owner": "BubbleParticles",
+            "repo": "Planar.jl",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frostybot-JS",
+          "description": "Frostybot-JS is a cryptocurrency trading API endpoint designed to execute webhooks as orders on an exchange",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-02-12T08:59:28Z",
+            "owner": "TheGigaQuant",
+            "repo": "frostybot-js",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Open source bots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ta-lib",
+          "description": "A widely used library by trading software developers requiring to perform technical analysis of financial market data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cython",
+            "last_commit": "2026-07-29T03:37:05Z",
+            "owner": "TA-Lib",
+            "repo": "ta-lib-python",
+            "stars": 12185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ta",
+          "description": "A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-18T13:04:55Z",
+            "owner": "bukosabino",
+            "repo": "ta",
+            "stars": 5140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "catalyst",
+          "description": "DEPRECATED - An algorithmic trading library for crypto-assets written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-11-26T14:07:55Z",
+            "owner": "scrtlabs",
+            "repo": "catalyst",
+            "stars": 2559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ta4j",
+          "description": "Ta4j is an open source Java library for technical analysis. It provides the basic components for creation, evaluation and execution of trading strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T21:37:53Z",
+            "owner": "ta4j",
+            "repo": "ta4j",
+            "stars": 2480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "technicalindicators",
+          "description": "A JS library with 20+ technical indicators and 30+ candlestick patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-03T08:42:59Z",
+            "owner": "anandanand84",
+            "repo": "technicalindicators",
+            "stars": 2451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "finta",
+          "description": "Common financial technical indicators implemented in Pandas.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-07-24T08:40:51Z",
+            "owner": "peerchemist",
+            "repo": "finta",
+            "stars": 2265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tulipindicators",
+          "description": "A technical analysis indicator function library in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-02T23:02:49Z",
+            "owner": "TulipCharts",
+            "repo": "tulipindicators",
+            "stars": 943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TechAn",
+          "description": "TechAn is a technical analysis library for Go! It provides basic and advanced technical analysis indicators, profit and trade analysis and strategy building.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-29T16:36:09Z",
+            "owner": "sdcoffey",
+            "repo": "techan",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ta-rs",
+          "description": "Technical analysis library for Rust language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-12T15:51:05Z",
+            "owner": "greyblake",
+            "repo": "ta-rs",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyti",
+          "description": "Python library of various financial technical indicators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T17:59:33Z",
+            "owner": "kylejusticemagnuson",
+            "repo": "pyti",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tulipnode",
+          "description": "Official Node.js wrapper for Tulip Indicators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-28T23:21:49Z",
+            "owner": "TulipCharts",
+            "repo": "tulipnode",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stocklook",
+          "description": "A crypto currency library for trading & market making bots, account management, and data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-22T03:20:37Z",
+            "owner": "zbarge",
+            "repo": "stocklook",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "perpsignal",
+          "description": "A Pandas-based signal engine for perpetual futures: compose indicators into a strategy expression, then backtest it into Sharpe, return, drawdown and win rate with fees, funding, stops and leverage modelled.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T02:26:27Z",
+            "owner": "mokshyaprotocol",
+            "repo": "signalview",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pandas-ta",
+          "description": "An easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions.",
+          "children": []
+        }
+      ],
+      "title": "Technical analysis libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ccxt",
+          "description": "A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:52:43Z",
+            "owner": "ccxt",
+            "repo": "ccxt",
+            "stars": 43619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-binance",
+          "description": "Binance Exchange API python implementation for automated trading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T11:48:57Z",
+            "owner": "sammchardy",
+            "repo": "python-binance",
+            "stars": 7198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-binance-api",
+          "description": "A Node.js library for the Binance API designed to be easy to use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T04:48:31Z",
+            "owner": "ccxt",
+            "repo": "node-binance-api",
+            "stars": 1664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "binance",
+          "description": "A typed & heavily tested TypeScript/Node.js library for the Binance REST APIs and Websockets, available on npm, for the backend and the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:28:21Z",
+            "owner": "sieblyio",
+            "repo": "binance",
+            "stars": 926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccxws",
+          "description": "A JavaScript library for connecting to realtime public APIs on all cryptocurrency exchanges.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-08-15T09:14:45Z",
+            "owner": "altangent",
+            "repo": "ccxws",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crypto-exchanges-gateway",
+          "description": "A self hosted unified REST API to various exchanges (can be used to automate trading or build bots).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-11-06T21:34:05Z",
+            "owner": "aloysius-pgast",
+            "repo": "crypto-exchanges-gateway",
+            "stars": 609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blockatlas",
+          "description": "A clean and lightweight cross-chain transaction API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-03-16T08:35:35Z",
+            "owner": "trustwallet",
+            "repo": "blockatlas",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bybit-api",
+          "description": "A complete, typed & heavily tested TypeScript/Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T15:47:27Z",
+            "owner": "sieblyio",
+            "repo": "bybit-api",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "okx-api",
+          "description": "A typed & heavily tested TypeScript/Node.js library for the OKX (OKEX) REST APIs and Websockets, available on npm, for the backend and the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:38:19Z",
+            "owner": "sieblyio",
+            "repo": "okx-api",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coinnect",
+          "description": "A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-11-30T20:49:56Z",
+            "owner": "hugues31",
+            "repo": "coinnect",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kucoin-ws",
+          "description": "Node.js websocket client for KuCoin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-24T00:45:15Z",
+            "owner": "IOfate",
+            "repo": "kucoin-ws",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bitpanda-ws",
+          "description": "Node.js websocket client for BitPanda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T09:20:25Z",
+            "owner": "IOfate",
+            "repo": "bitpanda-ws",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asynchuobi",
+          "description": "Python client for Huobi (REST and WebSocket).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-08T12:49:15Z",
+            "owner": "sometastycake",
+            "repo": "asynchuobi",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Market data libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TradingView Lightweight Charts",
+          "description": "TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:55:01Z",
+            "owner": "tradingview",
+            "repo": "lightweight-charts",
+            "stars": 16951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KLineChart",
+          "description": "Lightweight k-line chart that can be highly customized.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:56:03Z",
+            "owner": "klinecharts",
+            "repo": "KLineChart",
+            "stars": 4049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TradingVue.js",
+          "description": "Hackable charting library for traders built for vue.js applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-24T06:30:07Z",
+            "owner": "tvjsx",
+            "repo": "trading-vue-js",
+            "stars": 2293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TradeX-Chart",
+          "description": "TradeX Chart is a trade / stock chart written in plain (vanilla) JavaScript with mobile support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T16:28:08Z",
+            "owner": "tradex-app",
+            "repo": "TradeX-chart",
+            "stars": 181
+          }
+        }
+      ],
+      "title": "Charting libraries"
+    },
+    {
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wealthfolio",
+          "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T20:10:08Z",
+            "owner": "wealthfolio",
+            "repo": "wealthfolio",
+            "stars": 8616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrderBooks",
+          "description": "A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-11T18:10:55Z",
+            "owner": "sieblyio",
+            "repo": "orderbooks",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Crypto API Node.js Examples",
+          "description": "A collection of examples for working with various crypto exchange APIs and WebSockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-15T11:20:56Z",
+            "owner": "sieblyio",
+            "repo": "awesome-crypto-examples",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "undervalued-crypto-finder",
+          "description": "Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-06T06:44:17Z",
+            "owner": "Erfaniaa",
+            "repo": "undervalued-crypto-finder",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gunbot Quant",
+          "description": "Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-19T08:43:40Z",
+            "owner": "GuntharDeNiro",
+            "repo": "gunbot-quant",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "financial-dataset-generator",
+          "description": "Easy-to-use dataset generator for applying machine learning on financial markets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-03T17:24:57Z",
+            "owner": "Erfaniaa",
+            "repo": "financial-dataset-generator",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "financial-indexes-correlation",
+          "description": "Analyze financial data correlations fast and easily",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-03T17:28:52Z",
+            "owner": "Erfaniaa",
+            "repo": "financial-indexes-correlation",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Miscellaneous tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development Communities"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:21:39.432Z",
+    "original_repository": "botcrypto-io/awesome-crypto-trading-bots",
+    "original_repository_sha": "24af1178625198ff7ed9dadfc80304c9a5caffbf",
+    "enhanced_repository": "enhansome/enhansome-crypto-trading-bots",
+    "enhanced_repository_description": null,
+    "title": "Awesome Crypto Trading Bots with stars"
+  }
+}
