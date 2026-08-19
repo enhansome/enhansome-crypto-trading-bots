@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91629816,
             "language": "Python",
             "last_commit": "2026-08-18T11:21:57Z",
             "owner": "freqtrade",
             "repo": "freqtrade",
-            "stars": 53412
+            "stars": 53430
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138552196,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:30:23Z",
+            "last_commit": "2026-08-19T09:09:57Z",
             "owner": "nautechsystems",
             "repo": "nautilus_trader",
-            "stars": 26249
+            "stars": 26279
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29050338,
             "language": "Python",
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 22881
+            "stars": 22894
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 10020773,
             "language": "JavaScript",
             "last_commit": "2020-02-16T14:25:26Z",
             "owner": "askmike",
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156847937,
             "language": "Python",
-            "last_commit": "2026-08-18T15:56:48Z",
+            "last_commit": "2026-08-19T08:38:41Z",
             "owner": "jesse-ai",
             "repo": "jesse",
-            "stars": 8341
+            "stars": 8344
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62025838,
             "language": "HTML",
             "last_commit": "2022-02-14T16:11:27Z",
             "owner": "DeviaVir",
             "repo": "zenbot",
-            "stars": 8260
+            "stars": 8261
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122682362,
             "language": "Python",
             "last_commit": "2026-08-17T21:14:39Z",
             "owner": "Drakkar-Software",
             "repo": "OctoBot",
-            "stars": 6431
+            "stars": 6434
           }
         },
         {
@@ -108,8 +115,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201978761,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T04:01:07Z",
+            "last_commit": "2026-08-19T04:02:31Z",
             "owner": "Superalgos",
             "repo": "Superalgos",
             "stars": 5616
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103791045,
             "language": "Python",
             "last_commit": "2024-07-07T15:33:11Z",
             "owner": "CryptoSignal",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94253765,
             "language": "C++",
             "last_commit": "2024-12-15T15:26:06Z",
             "owner": "ctubio",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150290884,
             "language": "TypeScript",
             "last_commit": "2026-08-02T09:16:05Z",
             "owner": "Haehnchen",
@@ -164,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 726678772,
             "language": "TypeScript",
             "last_commit": "2025-06-29T16:24:33Z",
             "owner": "Open-Trader",
             "repo": "opentrader",
-            "stars": 2824
+            "stars": 2825
           }
         },
         {
@@ -178,11 +190,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420628968,
             "language": "Python",
             "last_commit": "2026-08-11T10:14:30Z",
             "owner": "asavinov",
             "repo": "intelligent-trading-bot",
-            "stars": 1852
+            "stars": 1854
           }
         },
         {
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117895247,
             "language": "TypeScript",
             "last_commit": "2024-08-19T19:20:27Z",
             "owner": "bitcoinvsalts",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 144078031,
             "language": "Go",
             "last_commit": "2023-11-03T05:46:15Z",
             "owner": "stellar-deprecated",
@@ -220,11 +235,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10065107,
             "language": "C++",
             "last_commit": "2025-06-25T18:26:27Z",
             "owner": "JulyIghor",
             "repo": "QtBitcoinTrader",
-            "stars": 796
+            "stars": 797
           }
         },
         {
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130620696,
             "language": "TypeScript",
             "last_commit": "2023-02-17T02:36:27Z",
             "owner": "Ekliptor",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238803654,
             "language": "Java",
             "last_commit": "2025-03-01T02:25:36Z",
             "owner": "cassandre-tech",
@@ -262,11 +280,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200886755,
             "language": "Python",
-            "last_commit": "2026-07-31T14:53:00Z",
+            "last_commit": "2026-08-19T06:24:45Z",
             "owner": "jrmeier",
             "repo": "fast-trade",
-            "stars": 582
+            "stars": 583
           }
         },
         {
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140289364,
             "language": "TypeScript",
             "last_commit": "2023-03-04T04:08:38Z",
             "owner": "magic8bot",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510429523,
             "language": "Python",
             "last_commit": "2024-03-13T00:30:33Z",
             "owner": "Erfaniaa",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032044162,
             "language": "TypeScript",
             "last_commit": "2026-08-13T20:51:56Z",
             "owner": "alexanderwanyoike",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 287269331,
             "language": "Rust",
             "last_commit": "2021-05-30T18:29:56Z",
             "owner": "gabriel-milan",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117201923,
             "language": "Python",
             "last_commit": "2026-05-04T01:23:36Z",
             "owner": "wolfinch",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439330952,
             "language": "Python",
             "last_commit": "2025-05-07T20:09:15Z",
             "owner": "CoinAlpha",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500756349,
             "language": "Python",
             "last_commit": "2023-09-26T23:01:05Z",
             "owner": "Erfaniaa",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 463983689,
             "language": "Python",
             "last_commit": "2026-08-15T08:16:19Z",
             "owner": "cunarist",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 884899549,
             "language": "Julia",
             "last_commit": "2026-08-18T15:05:53Z",
             "owner": "BubbleParticles",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317820235,
             "language": "CSS",
             "last_commit": "2021-02-12T08:59:28Z",
             "owner": "TheGigaQuant",
@@ -413,7 +442,7 @@
       "title": "Open source bots"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -422,11 +451,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3810626,
             "language": "Cython",
             "last_commit": "2026-07-29T03:37:05Z",
             "owner": "TA-Lib",
             "repo": "ta-lib-python",
-            "stars": 12193
+            "stars": 12194
           }
         },
         {
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116043206,
             "language": "Jupyter Notebook",
             "last_commit": "2026-03-18T13:04:55Z",
             "owner": "bukosabino",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94264011,
             "language": "Python",
             "last_commit": "2022-11-26T14:07:55Z",
             "owner": "scrtlabs",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103560333,
             "language": "Java",
             "last_commit": "2026-08-16T03:11:05Z",
             "owner": "ta4j",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57914774,
             "language": "JavaScript",
             "last_commit": "2022-11-03T08:42:59Z",
             "owner": "anandanand84",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 67166080,
             "language": "Python",
             "last_commit": "2022-07-24T08:40:51Z",
             "owner": "peerchemist",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75254248,
             "language": "C",
             "last_commit": "2024-02-02T23:02:49Z",
             "owner": "TulipCharts",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84272132,
             "language": "Go",
             "last_commit": "2026-05-29T16:36:09Z",
             "owner": "sdcoffey",
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105320282,
             "language": "Rust",
             "last_commit": "2024-07-12T15:51:05Z",
             "owner": "greyblake",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81390061,
             "language": "Python",
             "last_commit": "2026-06-26T17:59:33Z",
             "owner": "kylejusticemagnuson",
@@ -562,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76993879,
             "language": "JavaScript",
             "last_commit": "2023-06-28T23:21:49Z",
             "owner": "TulipCharts",
@@ -576,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108775324,
             "language": "Python",
             "last_commit": "2018-06-22T03:20:37Z",
             "owner": "zbarge",
@@ -590,24 +631,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1285802377,
             "language": "Python",
             "last_commit": "2026-08-04T02:26:27Z",
             "owner": "mokshyaprotocol",
             "repo": "signalview",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "pandas-ta",
-          "description": "An easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions.",
-          "children": []
         }
       ],
       "title": "Technical analysis libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -616,11 +652,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91253698,
             "language": "Python",
-            "last_commit": "2026-08-18T17:54:51Z",
+            "last_commit": "2026-08-19T12:19:52Z",
             "owner": "ccxt",
             "repo": "ccxt",
-            "stars": 43658
+            "stars": 43662
           }
         },
         {
@@ -630,11 +667,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100263581,
             "language": "Python",
             "last_commit": "2026-06-08T11:48:57Z",
             "owner": "sammchardy",
             "repo": "python-binance",
-            "stars": 7200
+            "stars": 7202
           }
         },
         {
@@ -644,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105945813,
             "language": "TypeScript",
             "last_commit": "2026-08-04T04:48:31Z",
             "owner": "ccxt",
@@ -658,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100385838,
             "language": "TypeScript",
             "last_commit": "2026-08-12T14:28:21Z",
             "owner": "sieblyio",
@@ -672,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 129456680,
             "language": "TypeScript",
             "last_commit": "2024-08-15T09:14:45Z",
             "owner": "altangent",
@@ -686,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103654252,
             "language": "JavaScript",
             "last_commit": "2025-11-06T21:34:05Z",
             "owner": "aloysius-pgast",
@@ -700,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 175346438,
             "language": "Go",
             "last_commit": "2022-03-16T08:35:35Z",
             "owner": "trustwallet",
@@ -714,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281359631,
             "language": "TypeScript",
             "last_commit": "2026-08-11T15:47:27Z",
             "owner": "sieblyio",
@@ -728,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512149325,
             "language": "TypeScript",
             "last_commit": "2026-08-12T18:38:19Z",
             "owner": "sieblyio",
@@ -742,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81999085,
             "language": "Rust",
             "last_commit": "2021-11-30T20:49:56Z",
             "owner": "hugues31",
@@ -756,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 403230866,
             "language": "TypeScript",
             "last_commit": "2024-09-24T00:45:15Z",
             "owner": "IOfate",
@@ -770,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 387269188,
             "language": "TypeScript",
             "last_commit": "2023-01-07T09:20:25Z",
             "owner": "IOfate",
@@ -784,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 546747745,
             "language": "Python",
             "last_commit": "2023-02-08T12:49:15Z",
             "owner": "sometastycake",
@@ -795,7 +844,7 @@
       "title": "Market data libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -804,11 +853,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188438191,
             "language": "TypeScript",
             "last_commit": "2026-08-12T11:55:01Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 16993
+            "stars": 16996
           }
         },
         {
@@ -818,11 +868,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187455140,
             "language": "TypeScript",
             "last_commit": "2026-08-13T14:56:03Z",
             "owner": "klinecharts",
             "repo": "KLineChart",
-            "stars": 4067
+            "stars": 4068
           }
         },
         {
@@ -832,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176145143,
             "language": "JavaScript",
             "last_commit": "2024-06-24T06:30:07Z",
             "owner": "tvjsx",
@@ -846,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 511093717,
             "language": "JavaScript",
             "last_commit": "2026-07-21T16:28:08Z",
             "owner": "tradex-app",
@@ -866,11 +919,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 806618581,
             "language": "Rust",
-            "last_commit": "2026-08-18T21:25:46Z",
+            "last_commit": "2026-08-19T01:50:19Z",
             "owner": "wealthfolio",
             "repo": "wealthfolio",
-            "stars": 8654
+            "stars": 8661
           }
         },
         {
@@ -880,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279839705,
             "language": "TypeScript",
             "last_commit": "2026-02-11T18:10:55Z",
             "owner": "sieblyio",
@@ -894,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 508432167,
             "language": "TypeScript",
             "last_commit": "2026-04-15T11:20:56Z",
             "owner": "sieblyio",
@@ -908,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589671192,
             "language": "Python",
             "last_commit": "2024-06-06T06:44:17Z",
             "owner": "Erfaniaa",
@@ -922,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1029024309,
             "language": "JavaScript",
             "last_commit": "2025-08-19T08:43:40Z",
             "owner": "GuntharDeNiro",
@@ -936,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 559782082,
             "language": "Python",
             "last_commit": "2024-03-03T17:24:57Z",
             "owner": "Erfaniaa",
@@ -950,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 583842051,
             "language": "Python",
             "last_commit": "2024-03-03T17:28:52Z",
             "owner": "Erfaniaa",
@@ -959,16 +1019,12 @@
         }
       ],
       "title": "Miscellaneous tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Development Communities"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:51:48.428Z",
+    "last_updated": "2026-08-19T12:21:13.037Z",
     "original_repository": "botcrypto-io/awesome-crypto-trading-bots",
+    "original_repository_id": 337697907,
     "original_repository_sha": "24af1178625198ff7ed9dadfc80304c9a5caffbf",
     "enhanced_repository": "enhansome/enhansome-crypto-trading-bots",
     "enhanced_repository_description": null,
