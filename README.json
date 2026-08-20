@@ -12,10 +12,10 @@
             "archived": false,
             "id": 91629816,
             "language": "Python",
-            "last_commit": "2026-08-19T14:34:14Z",
+            "last_commit": "2026-08-20T18:51:41Z",
             "owner": "freqtrade",
             "repo": "freqtrade",
-            "stars": 53444
+            "stars": 53473
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 138552196,
             "language": "Rust",
-            "last_commit": "2026-08-19T21:34:57Z",
+            "last_commit": "2026-08-20T21:12:11Z",
             "owner": "nautechsystems",
             "repo": "nautilus_trader",
-            "stars": 26412
+            "stars": 26697
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 22900
+            "stars": 22909
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2020-02-16T14:25:26Z",
             "owner": "askmike",
             "repo": "gekko",
-            "stars": 10188
+            "stars": 10187
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-19T14:33:36Z",
             "owner": "jesse-ai",
             "repo": "jesse",
-            "stars": 8347
+            "stars": 8348
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-02-14T16:11:27Z",
             "owner": "DeviaVir",
             "repo": "zenbot",
-            "stars": 8261
+            "stars": 8259
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-17T21:14:39Z",
             "owner": "Drakkar-Software",
             "repo": "OctoBot",
-            "stars": 6438
+            "stars": 6442
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 201978761,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T04:02:31Z",
+            "last_commit": "2026-08-20T04:02:13Z",
             "owner": "Superalgos",
             "repo": "Superalgos",
-            "stars": 5615
+            "stars": 5616
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2024-07-07T15:33:11Z",
             "owner": "CryptoSignal",
             "repo": "Crypto-Signal",
-            "stars": 5613
+            "stars": 5615
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-06-29T16:24:33Z",
             "owner": "Open-Trader",
             "repo": "opentrader",
-            "stars": 2825
+            "stars": 2827
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2023-11-03T05:46:15Z",
             "owner": "stellar-deprecated",
             "repo": "kelp",
-            "stars": 1126
+            "stars": 1127
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 200886755,
             "language": "Python",
-            "last_commit": "2026-08-19T06:24:45Z",
+            "last_commit": "2026-08-20T04:58:47Z",
             "owner": "jrmeier",
             "repo": "fast-trade",
             "stars": 583
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 884899549,
             "language": "Julia",
-            "last_commit": "2026-08-19T14:21:55Z",
+            "last_commit": "2026-08-20T15:05:51Z",
             "owner": "BubbleParticles",
             "repo": "Planar.jl",
             "stars": 8
@@ -456,7 +456,7 @@
             "last_commit": "2026-07-29T03:37:05Z",
             "owner": "TA-Lib",
             "repo": "ta-lib-python",
-            "stars": 12194
+            "stars": 12196
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-03-18T13:04:55Z",
             "owner": "bukosabino",
             "repo": "ta",
-            "stars": 5145
+            "stars": 5173
           }
         },
         {
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 91253698,
             "language": "Python",
-            "last_commit": "2026-08-19T20:25:05Z",
+            "last_commit": "2026-08-20T13:57:54Z",
             "owner": "ccxt",
             "repo": "ccxt",
-            "stars": 43670
+            "stars": 43676
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-06-08T11:48:57Z",
             "owner": "sammchardy",
             "repo": "python-binance",
-            "stars": 7202
+            "stars": 7203
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-08-12T11:55:01Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 16998
+            "stars": 17006
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2026-08-13T14:56:03Z",
             "owner": "klinecharts",
             "repo": "KLineChart",
-            "stars": 4070
+            "stars": 4073
           }
         },
         {
@@ -888,7 +888,7 @@
             "last_commit": "2024-06-24T06:30:07Z",
             "owner": "tvjsx",
             "repo": "trading-vue-js",
-            "stars": 2293
+            "stars": 2294
           }
         },
         {
@@ -921,10 +921,10 @@
             "archived": false,
             "id": 806618581,
             "language": "Rust",
-            "last_commit": "2026-08-19T17:58:52Z",
+            "last_commit": "2026-08-20T18:04:48Z",
             "owner": "wealthfolio",
             "repo": "wealthfolio",
-            "stars": 8669
+            "stars": 8679
           }
         },
         {
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:54:40.898Z",
+    "last_updated": "2026-08-20T21:56:26.715Z",
     "original_repository": "botcrypto-io/awesome-crypto-trading-bots",
     "original_repository_id": 337697907,
     "original_repository_sha": "24af1178625198ff7ed9dadfc80304c9a5caffbf",
