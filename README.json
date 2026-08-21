@@ -12,10 +12,10 @@
             "archived": false,
             "id": 91629816,
             "language": "Python",
-            "last_commit": "2026-08-20T18:51:41Z",
+            "last_commit": "2026-08-21T18:08:29Z",
             "owner": "freqtrade",
             "repo": "freqtrade",
-            "stars": 53473
+            "stars": 53497
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 138552196,
             "language": "Rust",
-            "last_commit": "2026-08-20T21:12:11Z",
+            "last_commit": "2026-08-21T14:57:18Z",
             "owner": "nautechsystems",
             "repo": "nautilus_trader",
-            "stars": 26697
+            "stars": 27048
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 22909
+            "stars": 22918
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2020-02-16T14:25:26Z",
             "owner": "askmike",
             "repo": "gekko",
-            "stars": 10187
+            "stars": 10186
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-19T14:33:36Z",
             "owner": "jesse-ai",
             "repo": "jesse",
-            "stars": 8348
+            "stars": 8353
           }
         },
         {
@@ -102,25 +102,10 @@
             "archived": false,
             "id": 122682362,
             "language": "Python",
-            "last_commit": "2026-08-17T21:14:39Z",
+            "last_commit": "2026-08-21T12:57:09Z",
             "owner": "Drakkar-Software",
             "repo": "OctoBot",
-            "stars": 6442
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Superalgos",
-          "description": "Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 201978761,
-            "language": "JavaScript",
-            "last_commit": "2026-08-20T04:02:13Z",
-            "owner": "Superalgos",
-            "repo": "Superalgos",
-            "stars": 5616
+            "stars": 6447
           }
         },
         {
@@ -135,7 +120,22 @@
             "last_commit": "2024-07-07T15:33:11Z",
             "owner": "CryptoSignal",
             "repo": "Crypto-Signal",
-            "stars": 5615
+            "stars": 5616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superalgos",
+          "description": "Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201978761,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T04:04:45Z",
+            "owner": "Superalgos",
+            "repo": "Superalgos",
+            "stars": 5616
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-06-29T16:24:33Z",
             "owner": "Open-Trader",
             "repo": "opentrader",
-            "stars": 2827
+            "stars": 2826
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2024-08-19T19:20:27Z",
             "owner": "bitcoinvsalts",
             "repo": "node-binance-trader",
-            "stars": 1224
+            "stars": 1225
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2024-03-13T00:30:33Z",
             "owner": "Erfaniaa",
             "repo": "binance-futures-trading-bot",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2023-09-26T23:01:05Z",
             "owner": "Erfaniaa",
             "repo": "crypto-trading-strategy-backtester",
-            "stars": 98
+            "stars": 99
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-07-29T03:37:05Z",
             "owner": "TA-Lib",
             "repo": "ta-lib-python",
-            "stars": 12196
+            "stars": 12199
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-03-18T13:04:55Z",
             "owner": "bukosabino",
             "repo": "ta",
-            "stars": 5173
+            "stars": 5176
           }
         },
         {
@@ -498,10 +498,10 @@
             "archived": false,
             "id": 103560333,
             "language": "Java",
-            "last_commit": "2026-08-16T03:11:05Z",
+            "last_commit": "2026-08-21T20:56:57Z",
             "owner": "ta4j",
             "repo": "ta4j",
-            "stars": 2481
+            "stars": 2480
           }
         },
         {
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 91253698,
             "language": "Python",
-            "last_commit": "2026-08-20T13:57:54Z",
+            "last_commit": "2026-08-21T16:52:01Z",
             "owner": "ccxt",
             "repo": "ccxt",
-            "stars": 43676
+            "stars": 43689
           }
         },
         {
@@ -855,10 +855,10 @@
             "archived": false,
             "id": 188438191,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T11:55:01Z",
+            "last_commit": "2026-08-21T13:46:51Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17006
+            "stars": 17021
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2026-08-13T14:56:03Z",
             "owner": "klinecharts",
             "repo": "KLineChart",
-            "stars": 4073
+            "stars": 4078
           }
         },
         {
@@ -888,7 +888,7 @@
             "last_commit": "2024-06-24T06:30:07Z",
             "owner": "tvjsx",
             "repo": "trading-vue-js",
-            "stars": 2294
+            "stars": 2295
           }
         },
         {
@@ -921,10 +921,10 @@
             "archived": false,
             "id": 806618581,
             "language": "Rust",
-            "last_commit": "2026-08-20T18:04:48Z",
+            "last_commit": "2026-08-21T17:49:26Z",
             "owner": "wealthfolio",
             "repo": "wealthfolio",
-            "stars": 8679
+            "stars": 8690
           }
         },
         {
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:56:26.715Z",
+    "last_updated": "2026-08-21T21:54:01.888Z",
     "original_repository": "botcrypto-io/awesome-crypto-trading-bots",
     "original_repository_id": 337697907,
     "original_repository_sha": "24af1178625198ff7ed9dadfc80304c9a5caffbf",
