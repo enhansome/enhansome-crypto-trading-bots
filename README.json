@@ -12,10 +12,10 @@
             "archived": false,
             "id": 91629816,
             "language": "Python",
-            "last_commit": "2026-08-23T14:06:19Z",
+            "last_commit": "2026-08-24T04:58:31Z",
             "owner": "freqtrade",
             "repo": "freqtrade",
-            "stars": 53562
+            "stars": 53583
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 138552196,
             "language": "Rust",
-            "last_commit": "2026-08-23T14:09:14Z",
+            "last_commit": "2026-08-24T14:00:34Z",
             "owner": "nautechsystems",
             "repo": "nautilus_trader",
-            "stars": 27499
+            "stars": 27613
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 22934
+            "stars": 22945
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-19T14:33:36Z",
             "owner": "jesse-ai",
             "repo": "jesse",
-            "stars": 8367
+            "stars": 8370
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-02-14T16:11:27Z",
             "owner": "DeviaVir",
             "repo": "zenbot",
-            "stars": 8259
+            "stars": 8258
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 122682362,
             "language": "Python",
-            "last_commit": "2026-08-23T21:31:32Z",
+            "last_commit": "2026-08-24T13:23:10Z",
             "owner": "Drakkar-Software",
             "repo": "OctoBot",
-            "stars": 6456
+            "stars": 6460
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 201978761,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T03:36:34Z",
+            "last_commit": "2026-08-24T04:56:03Z",
             "owner": "Superalgos",
             "repo": "Superalgos",
             "stars": 5620
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-02T09:16:05Z",
             "owner": "Haehnchen",
             "repo": "crypto-trading-bot",
-            "stars": 3514
+            "stars": 3515
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-06-29T16:24:33Z",
             "owner": "Open-Trader",
             "repo": "opentrader",
-            "stars": 2829
+            "stars": 2828
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2025-06-25T18:26:27Z",
             "owner": "JulyIghor",
             "repo": "QtBitcoinTrader",
-            "stars": 797
+            "stars": 798
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-22T20:43:28Z",
             "owner": "jrmeier",
             "repo": "fast-trade",
-            "stars": 584
+            "stars": 586
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 884899549,
             "language": "Julia",
-            "last_commit": "2026-08-20T15:05:51Z",
+            "last_commit": "2026-08-24T10:59:17Z",
             "owner": "BubbleParticles",
             "repo": "Planar.jl",
             "stars": 8
@@ -456,7 +456,7 @@
             "last_commit": "2026-07-29T03:37:05Z",
             "owner": "TA-Lib",
             "repo": "ta-lib-python",
-            "stars": 12201
+            "stars": 12202
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-03-18T13:04:55Z",
             "owner": "bukosabino",
             "repo": "ta",
-            "stars": 5179
+            "stars": 5180
           }
         },
         {
@@ -498,7 +498,7 @@
             "archived": false,
             "id": 103560333,
             "language": "Java",
-            "last_commit": "2026-08-23T21:51:25Z",
+            "last_commit": "2026-08-24T14:00:53Z",
             "owner": "ta4j",
             "repo": "ta4j",
             "stars": 2480
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 91253698,
             "language": "Python",
-            "last_commit": "2026-08-23T14:50:31Z",
+            "last_commit": "2026-08-24T09:43:40Z",
             "owner": "ccxt",
             "repo": "ccxt",
-            "stars": 43710
+            "stars": 43730
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-06-08T11:48:57Z",
             "owner": "sammchardy",
             "repo": "python-binance",
-            "stars": 7204
+            "stars": 7206
           }
         },
         {
@@ -699,7 +699,7 @@
             "archived": false,
             "id": 100385838,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:28:21Z",
+            "last_commit": "2026-08-24T11:16:53Z",
             "owner": "sieblyio",
             "repo": "binance",
             "stars": 925
@@ -858,7 +858,7 @@
             "last_commit": "2026-08-21T13:46:51Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17046
+            "stars": 17050
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2026-08-13T14:56:03Z",
             "owner": "klinecharts",
             "repo": "KLineChart",
-            "stars": 4082
+            "stars": 4087
           }
         },
         {
@@ -924,7 +924,7 @@
             "last_commit": "2026-08-23T03:54:17Z",
             "owner": "wealthfolio",
             "repo": "wealthfolio",
-            "stars": 8705
+            "stars": 8711
           }
         },
         {
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:51:35.190Z",
+    "last_updated": "2026-08-24T14:01:51.484Z",
     "original_repository": "botcrypto-io/awesome-crypto-trading-bots",
     "original_repository_id": 337697907,
     "original_repository_sha": "24af1178625198ff7ed9dadfc80304c9a5caffbf",
