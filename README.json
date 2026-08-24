@@ -12,10 +12,10 @@
             "archived": false,
             "id": 91629816,
             "language": "Python",
-            "last_commit": "2026-08-24T04:58:31Z",
+            "last_commit": "2026-08-24T16:21:49Z",
             "owner": "freqtrade",
             "repo": "freqtrade",
-            "stars": 53583
+            "stars": 53590
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 138552196,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:00:34Z",
+            "last_commit": "2026-08-24T14:38:35Z",
             "owner": "nautechsystems",
             "repo": "nautilus_trader",
-            "stars": 27613
+            "stars": 27684
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 22945
+            "stars": 22950
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-19T14:33:36Z",
             "owner": "jesse-ai",
             "repo": "jesse",
-            "stars": 8370
+            "stars": 8371
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 122682362,
             "language": "Python",
-            "last_commit": "2026-08-24T13:23:10Z",
+            "last_commit": "2026-08-24T21:13:48Z",
             "owner": "Drakkar-Software",
             "repo": "OctoBot",
             "stars": 6460
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-11T10:14:30Z",
             "owner": "asavinov",
             "repo": "intelligent-trading-bot",
-            "stars": 1855
+            "stars": 1856
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 884899549,
             "language": "Julia",
-            "last_commit": "2026-08-24T10:59:17Z",
+            "last_commit": "2026-08-24T17:04:54Z",
             "owner": "BubbleParticles",
             "repo": "Planar.jl",
             "stars": 8
@@ -471,7 +471,7 @@
             "last_commit": "2026-03-18T13:04:55Z",
             "owner": "bukosabino",
             "repo": "ta",
-            "stars": 5180
+            "stars": 5181
           }
         },
         {
@@ -498,7 +498,7 @@
             "archived": false,
             "id": 103560333,
             "language": "Java",
-            "last_commit": "2026-08-24T14:00:53Z",
+            "last_commit": "2026-08-24T21:54:50Z",
             "owner": "ta4j",
             "repo": "ta4j",
             "stars": 2480
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 91253698,
             "language": "Python",
-            "last_commit": "2026-08-24T09:43:40Z",
+            "last_commit": "2026-08-24T17:19:11Z",
             "owner": "ccxt",
             "repo": "ccxt",
-            "stars": 43730
+            "stars": 43734
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-08-21T13:46:51Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17050
+            "stars": 17051
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2026-08-13T14:56:03Z",
             "owner": "klinecharts",
             "repo": "KLineChart",
-            "stars": 4087
+            "stars": 4088
           }
         },
         {
@@ -921,10 +921,10 @@
             "archived": false,
             "id": 806618581,
             "language": "Rust",
-            "last_commit": "2026-08-23T03:54:17Z",
+            "last_commit": "2026-08-24T21:16:03Z",
             "owner": "wealthfolio",
             "repo": "wealthfolio",
-            "stars": 8711
+            "stars": 8716
           }
         },
         {
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:51.484Z",
+    "last_updated": "2026-08-24T21:56:48.947Z",
     "original_repository": "botcrypto-io/awesome-crypto-trading-bots",
     "original_repository_id": 337697907,
     "original_repository_sha": "24af1178625198ff7ed9dadfc80304c9a5caffbf",
