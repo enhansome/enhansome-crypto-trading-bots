@@ -12,10 +12,10 @@
             "archived": false,
             "id": 91629816,
             "language": "Python",
-            "last_commit": "2026-08-24T16:21:49Z",
+            "last_commit": "2026-08-25T04:50:39Z",
             "owner": "freqtrade",
             "repo": "freqtrade",
-            "stars": 53590
+            "stars": 53601
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 138552196,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:38:35Z",
+            "last_commit": "2026-08-25T05:45:18Z",
             "owner": "nautechsystems",
             "repo": "nautilus_trader",
-            "stars": 27684
+            "stars": 27715
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 22950
+            "stars": 22953
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-24T21:13:48Z",
             "owner": "Drakkar-Software",
             "repo": "OctoBot",
-            "stars": 6460
+            "stars": 6461
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 201978761,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T04:56:03Z",
+            "last_commit": "2026-08-25T03:35:25Z",
             "owner": "Superalgos",
             "repo": "Superalgos",
-            "stars": 5620
+            "stars": 5621
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-02T09:16:05Z",
             "owner": "Haehnchen",
             "repo": "crypto-trading-bot",
-            "stars": 3515
+            "stars": 3514
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 884899549,
             "language": "Julia",
-            "last_commit": "2026-08-24T17:04:54Z",
+            "last_commit": "2026-08-25T03:25:36Z",
             "owner": "BubbleParticles",
             "repo": "Planar.jl",
             "stars": 8
@@ -456,7 +456,7 @@
             "last_commit": "2026-07-29T03:37:05Z",
             "owner": "TA-Lib",
             "repo": "ta-lib-python",
-            "stars": 12202
+            "stars": 12203
           }
         },
         {
@@ -498,7 +498,7 @@
             "archived": false,
             "id": 103560333,
             "language": "Java",
-            "last_commit": "2026-08-24T21:54:50Z",
+            "last_commit": "2026-08-25T03:40:40Z",
             "owner": "ta4j",
             "repo": "ta4j",
             "stars": 2480
@@ -654,10 +654,10 @@
             "archived": false,
             "id": 91253698,
             "language": "Python",
-            "last_commit": "2026-08-24T17:19:11Z",
+            "last_commit": "2026-08-25T04:41:57Z",
             "owner": "ccxt",
             "repo": "ccxt",
-            "stars": 43734
+            "stars": 43737
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-06-08T11:48:57Z",
             "owner": "sammchardy",
             "repo": "python-binance",
-            "stars": 7206
+            "stars": 7207
           }
         },
         {
@@ -687,7 +687,7 @@
             "last_commit": "2026-08-04T04:48:31Z",
             "owner": "ccxt",
             "repo": "node-binance-api",
-            "stars": 1664
+            "stars": 1665
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-08-21T13:46:51Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17051
+            "stars": 17058
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2026-08-13T14:56:03Z",
             "owner": "klinecharts",
             "repo": "KLineChart",
-            "stars": 4088
+            "stars": 4089
           }
         },
         {
@@ -921,10 +921,10 @@
             "archived": false,
             "id": 806618581,
             "language": "Rust",
-            "last_commit": "2026-08-24T21:16:03Z",
+            "last_commit": "2026-08-24T23:50:11Z",
             "owner": "wealthfolio",
             "repo": "wealthfolio",
-            "stars": 8716
+            "stars": 8718
           }
         },
         {
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:56:48.947Z",
+    "last_updated": "2026-08-25T05:55:13.029Z",
     "original_repository": "botcrypto-io/awesome-crypto-trading-bots",
     "original_repository_id": 337697907,
     "original_repository_sha": "24af1178625198ff7ed9dadfc80304c9a5caffbf",
