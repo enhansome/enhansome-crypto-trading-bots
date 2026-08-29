@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T16:26:43Z",
             "owner": "freqtrade",
             "repo": "freqtrade",
-            "stars": 53740
+            "stars": 53782
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -28,10 +28,10 @@
             "archived": false,
             "id": 138552196,
             "language": "Rust",
-            "last_commit": "2026-08-28T05:12:23Z",
+            "last_commit": "2026-08-29T02:37:59Z",
             "owner": "nautechsystems",
             "repo": "nautilus_trader",
-            "stars": 27972
+            "stars": 28035
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -47,7 +47,7 @@
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 23001
+            "stars": 23012
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -63,7 +63,7 @@
             "last_commit": "2020-02-16T14:25:26Z",
             "owner": "askmike",
             "repo": "gekko",
-            "stars": 10187
+            "stars": 10186
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -79,7 +79,7 @@
             "last_commit": "2026-08-27T10:00:21Z",
             "owner": "jesse-ai",
             "repo": "jesse",
-            "stars": 8385
+            "stars": 8391
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 122682362,
             "language": "Python",
-            "last_commit": "2026-08-26T08:46:52Z",
+            "last_commit": "2026-08-28T14:58:12Z",
             "owner": "Drakkar-Software",
             "repo": "OctoBot",
-            "stars": 6479
+            "stars": 6483
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -124,10 +124,10 @@
             "archived": false,
             "id": 201978761,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:02:08Z",
+            "last_commit": "2026-08-28T19:03:23Z",
             "owner": "Superalgos",
             "repo": "Superalgos",
-            "stars": 5628
+            "stars": 5629
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -143,7 +143,7 @@
             "last_commit": "2024-07-07T15:33:11Z",
             "owner": "CryptoSignal",
             "repo": "Crypto-Signal",
-            "stars": 5620
+            "stars": 5621
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -159,7 +159,7 @@
             "last_commit": "2024-12-15T15:26:06Z",
             "owner": "ctubio",
             "repo": "Krypto-trading-bot",
-            "stars": 3707
+            "stars": 3709
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -175,7 +175,7 @@
             "last_commit": "2026-08-02T09:16:05Z",
             "owner": "Haehnchen",
             "repo": "crypto-trading-bot",
-            "stars": 3515
+            "stars": 3516
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -191,7 +191,7 @@
             "last_commit": "2025-06-29T16:24:33Z",
             "owner": "Open-Trader",
             "repo": "opentrader",
-            "stars": 2836
+            "stars": 2839
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-13T20:51:56Z",
             "owner": "alexanderwanyoike",
             "repo": "the0",
-            "stars": 390
+            "stars": 391
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-28T00:43:43Z",
             "owner": "BubbleParticles",
             "repo": "Planar.jl",
-            "stars": 8
+            "stars": 10
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -485,7 +485,7 @@
             "last_commit": "2026-07-29T03:37:05Z",
             "owner": "TA-Lib",
             "repo": "ta-lib-python",
-            "stars": 12216
+            "stars": 12218
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -501,7 +501,7 @@
             "last_commit": "2026-03-18T13:04:55Z",
             "owner": "bukosabino",
             "repo": "ta",
-            "stars": 5181
+            "stars": 5180
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -530,10 +530,10 @@
             "archived": false,
             "id": 103560333,
             "language": "Java",
-            "last_commit": "2026-08-27T17:53:42Z",
+            "last_commit": "2026-08-28T22:18:58Z",
             "owner": "ta4j",
             "repo": "ta4j",
-            "stars": 2485
+            "stars": 2484
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -696,10 +696,10 @@
             "archived": false,
             "id": 91253698,
             "language": "Python",
-            "last_commit": "2026-08-27T09:42:12Z",
+            "last_commit": "2026-08-28T18:09:44Z",
             "owner": "ccxt",
             "repo": "ccxt",
-            "stars": 43773
+            "stars": 43785
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -913,7 +913,7 @@
             "last_commit": "2026-08-21T13:46:51Z",
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17102
+            "stars": 17112
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -926,10 +926,10 @@
             "archived": false,
             "id": 187455140,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T18:16:19Z",
+            "last_commit": "2026-08-28T16:10:43Z",
             "owner": "klinecharts",
             "repo": "KLineChart",
-            "stars": 4095
+            "stars": 4096
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -945,7 +945,7 @@
             "last_commit": "2024-06-24T06:30:07Z",
             "owner": "tvjsx",
             "repo": "trading-vue-js",
-            "stars": 2297
+            "stars": 2298
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -980,10 +980,10 @@
             "archived": false,
             "id": 806618581,
             "language": "Rust",
-            "last_commit": "2026-08-28T03:01:05Z",
+            "last_commit": "2026-08-28T20:08:54Z",
             "owner": "wealthfolio",
             "repo": "wealthfolio",
-            "stars": 8744
+            "stars": 8751
           },
           "first_seen": "2026-08-28T05:35:43.358Z"
         },
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:35:43.358Z",
+    "last_updated": "2026-08-29T03:19:34.145Z",
     "original_repository_info": {
       "archived": false,
       "id": 337697907,
@@ -1096,7 +1096,7 @@
       "last_commit": "2026-08-10T19:54:01Z",
       "owner": "botcrypto-io",
       "repo": "awesome-crypto-trading-bots",
-      "stars": 2495
+      "stars": 2496
     },
     "original_repository_sha": "24af1178625198ff7ed9dadfc80304c9a5caffbf",
     "enhanced_repository": "enhansome/enhansome-crypto-trading-bots",
