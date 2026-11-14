@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "freqtrade",
             "repo": "freqtrade",
-            "stars": 56823,
+            "stars": 56855,
             "topics": [
               "algorithmic-trading",
               "bitcoin",
@@ -46,11 +46,11 @@
             "id": 138552196,
             "language": "Rust",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-13T01:49:18Z",
-            "open_issues": 112,
+            "last_commit": "2026-11-14T01:24:19Z",
+            "open_issues": 108,
             "owner": "nautechsystems",
             "repo": "nautilus_trader",
-            "stars": 31487,
+            "stars": 31511,
             "topics": [
               "algorithmic-trading-engine",
               "artificial-intelligence",
@@ -85,7 +85,7 @@
             "open_issues": 64,
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 23729,
+            "stars": 23736,
             "topics": [
               "backtesting",
               "metaclass",
@@ -138,7 +138,7 @@
             "open_issues": 4,
             "owner": "jesse-ai",
             "repo": "jesse",
-            "stars": 8800,
+            "stars": 8803,
             "topics": [
               "algo-trading",
               "algorithmic-trading",
@@ -206,7 +206,7 @@
             "open_issues": 194,
             "owner": "Drakkar-Software",
             "repo": "OctoBot",
-            "stars": 6935,
+            "stars": 6939,
             "topics": [
               "ai-trading",
               "backtest",
@@ -242,7 +242,7 @@
             "open_issues": 109,
             "owner": "Superalgos",
             "repo": "Superalgos",
-            "stars": 5790,
+            "stars": 5791,
             "topics": [
               "algorithmic-trading",
               "algotrading",
@@ -326,7 +326,7 @@
             "open_issues": 64,
             "owner": "ctubio",
             "repo": "Krypto-trading-bot",
-            "stars": 3736,
+            "stars": 3737,
             "topics": [
               "binance",
               "bitcoin",
@@ -368,7 +368,7 @@
             "open_issues": 119,
             "owner": "Haehnchen",
             "repo": "crypto-trading-bot",
-            "stars": 3551,
+            "stars": 3552,
             "topics": [
               "binance",
               "bitfinex",
@@ -409,7 +409,7 @@
             "open_issues": 40,
             "owner": "Open-Trader",
             "repo": "opentrader",
-            "stars": 2928,
+            "stars": 2931,
             "topics": [
               "algotrading",
               "bot",
@@ -443,7 +443,7 @@
             "open_issues": 47,
             "owner": "asavinov",
             "repo": "intelligent-trading-bot",
-            "stars": 1899,
+            "stars": 1901,
             "topics": [
               "algorithmic-trading",
               "artificial-intelligence",
@@ -575,7 +575,7 @@
             "open_issues": 33,
             "owner": "Ekliptor",
             "repo": "WolfBot",
-            "stars": 789,
+            "stars": 790,
             "topics": [
               "bitcoin",
               "bitmex",
@@ -659,7 +659,7 @@
             "open_issues": 2,
             "owner": "jrmeier",
             "repo": "fast-trade",
-            "stars": 605,
+            "stars": 606,
             "topics": [
               "algotrading",
               "backtesting",
@@ -720,7 +720,7 @@
             "open_issues": 8,
             "owner": "Erfaniaa",
             "repo": "binance-futures-trading-bot",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "algo-trading",
               "auto-trading",
@@ -940,7 +940,7 @@
             "id": 884899549,
             "language": "Julia",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T04:30:36Z",
+            "last_commit": "2026-11-13T03:43:36Z",
             "open_issues": 1,
             "owner": "BubbleParticles",
             "repo": "Planar.jl",
@@ -1002,7 +1002,7 @@
             "open_issues": 88,
             "owner": "TA-Lib",
             "repo": "ta-lib-python",
-            "stars": 12400,
+            "stars": 12402,
             "topics": [
               "finance",
               "pattern-recognition",
@@ -1030,7 +1030,7 @@
             "open_issues": 159,
             "owner": "bukosabino",
             "repo": "ta",
-            "stars": 5255,
+            "stars": 5257,
             "topics": [
               "financial",
               "fundamental-analysis",
@@ -1331,7 +1331,7 @@
             "open_issues": 6,
             "owner": "zbarge",
             "repo": "stocklook",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "algo-trading",
               "bitcoin",
@@ -1407,11 +1407,11 @@
             "id": 91253698,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T20:08:52Z",
-            "open_issues": 753,
+            "last_commit": "2026-11-13T23:54:58Z",
+            "open_issues": 755,
             "owner": "ccxt",
             "repo": "ccxt",
-            "stars": 44872,
+            "stars": 44878,
             "topics": [
               "altcoin",
               "api",
@@ -1812,11 +1812,11 @@
             "id": 188438191,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T18:15:15Z",
-            "open_issues": 106,
+            "last_commit": "2026-11-13T13:24:59Z",
+            "open_issues": 105,
             "owner": "tradingview",
             "repo": "lightweight-charts",
-            "stars": 17843,
+            "stars": 17851,
             "topics": [
               "canvas",
               "charting",
@@ -1847,7 +1847,7 @@
             "open_issues": 64,
             "owner": "klinecharts",
             "repo": "KLineChart",
-            "stars": 4300,
+            "stars": 4304,
             "topics": [
               "candlestick",
               "canvas",
@@ -1953,11 +1953,11 @@
             "id": 806618581,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-12T20:05:24Z",
-            "open_issues": 516,
+            "last_commit": "2026-11-13T22:48:14Z",
+            "open_issues": 525,
             "owner": "wealthfolio",
             "repo": "wealthfolio",
-            "stars": 9428,
+            "stars": 9439,
             "topics": [
               "macos-app",
               "portfolio-tracker",
@@ -2169,7 +2169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:04:54.049Z",
+    "last_updated": "2026-11-14T01:41:22.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome crypto trading bots",
@@ -2178,7 +2178,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-10T19:54:01Z",
-      "open_issues": 96,
+      "open_issues": 98,
       "owner": "botcrypto-io",
       "repo": "awesome-crypto-trading-bots",
       "stars": 2557,
