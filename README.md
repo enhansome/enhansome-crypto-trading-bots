@@ -18,20 +18,20 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 ## Open source bots
 
-* [freqtrade](https://github.com/freqtrade/freqtrade) ⭐ 56,965 | 🐛 25 | 🌐 Python | 📅 2026-11-16 - Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
-* [Nautilus](https://github.com/nautechsystems/nautilus_trader) ⭐ 31,599 | 🐛 117 | 🌐 Rust | 📅 2026-11-17 - Production-grade Rust-native trading engine with deterministic event-driven architecture
-* [Backtrader](https://github.com/mementum/backtrader) ⭐ 23,753 | 🐛 64 | 🌐 Python | 📅 2024-08-19 - A feature-rich Python framework for backtesting and trading.
+* [freqtrade](https://github.com/freqtrade/freqtrade) ⭐ 56,997 | 🐛 25 | 🌐 Python | 📅 2026-11-17 - Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
+* [Nautilus](https://github.com/nautechsystems/nautilus_trader) ⭐ 31,652 | 🐛 116 | 🌐 Rust | 📅 2026-11-18 - Production-grade Rust-native trading engine with deterministic event-driven architecture
+* [Backtrader](https://github.com/mementum/backtrader) ⭐ 23,756 | 🐛 64 | 🌐 Python | 📅 2024-08-19 - A feature-rich Python framework for backtesting and trading.
 * [gekko](https://github.com/askmike/gekko) ⚠️ Archived - DEPRECATED - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
-* [jesse](https://github.com/jesse-ai/jesse) ⭐ 8,811 | 🐛 5 | 🌐 Python | 📅 2026-11-10 - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
+* [jesse](https://github.com/jesse-ai/jesse) ⭐ 8,818 | 🐛 4 | 🌐 Python | 📅 2026-11-17 - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
 * [zenbot](https://github.com/DeviaVir/zenbot) ⚠️ Archived - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-* [Octobot](https://github.com/Drakkar-Software/OctoBot) ⭐ 6,951 | 🐛 196 | 🌐 Python | 📅 2026-11-16 - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
-* [Superalgos](https://github.com/Superalgos/Superalgos) ⭐ 5,800 | 🐛 107 | 🌐 JavaScript | 📅 2026-11-14 - Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
-* [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) ⭐ 5,665 | 🐛 56 | 🌐 Python | 📅 2024-07-07 - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
+* [Octobot](https://github.com/Drakkar-Software/OctoBot) ⭐ 6,958 | 🐛 195 | 🌐 Python | 📅 2026-11-16 - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
+* [Superalgos](https://github.com/Superalgos/Superalgos) ⭐ 5,802 | 🐛 107 | 🌐 JavaScript | 📅 2026-11-14 - Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
+* [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) ⭐ 5,663 | 🐛 56 | 🌐 Python | 📅 2024-07-07 - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
 * [K](https://github.com/ctubio/Krypto-trading-bot) ⭐ 3,736 | 🐛 64 | 🌐 C++ | 📅 2024-12-15 - K is a very low latency market making trading bot with a fully featured web interface. It can place and cancel orders on one of several supported cryptocoin exchanges in less than a few miliseconds per order on a decent machine.
-* [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) ⭐ 3,550 | 🐛 119 | 🌐 TypeScript | 📅 2026-08-02 - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
-* [OpenTrader](https://github.com/bludnic/opentrader) ⭐ 2,935 | 🐛 40 | 🌐 TypeScript | 📅 2025-06-29 - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT.
+* [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) ⭐ 3,549 | 🐛 119 | 🌐 TypeScript | 📅 2026-08-02 - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
+* [OpenTrader](https://github.com/bludnic/opentrader) ⭐ 2,934 | 🐛 40 | 🌐 TypeScript | 📅 2025-06-29 - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT.
   Production-grade Rust-native trading engine with deterministic event-driven architecture
-* [Intelligent Trading Bot](https://github.com/asavinov/intelligent-trading-bot) ⭐ 1,903 | 🐛 48 | 🌐 Python | 📅 2026-11-16 - Automatically generating signals and trading based on machine learning and feature engineering
+* [Intelligent Trading Bot](https://github.com/asavinov/intelligent-trading-bot) ⭐ 1,903 | 🐛 48 | 🌐 Python | 📅 2026-11-17 - Automatically generating signals and trading based on machine learning and feature engineering
 * [BVA](https://github.com/bitcoinvsalts/node-binance-trader) ⭐ 1,224 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-19 - A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.
 * [Kelp](https://github.com/stellar/kelp) ⚠️ Archived - Kelp is a free and open-source market making bot for the Stellar universal marketplace and for centralized exchanges such as Binance, Kraken, CoinbasePro, etc.
 * [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) ⭐ 800 | 🐛 53 | 🌐 C++ | 📅 2025-06-25 - Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
@@ -46,20 +46,20 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Hummingbot](https://github.com/coinalpha/hummingbot) ⭐ 215 | 🐛 9 | 🌐 Python | 📅 2025-05-07 - Hummingbot is an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
 * [crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester) ⭐ 101 | 🐛 0 | 🌐 Python | 📅 2023-09-26 - Easy-to-use cryptocurrency trading strategy simulator and backtester
 * [Solie](https://github.com/cunarist/solie) ⭐ 60 | 🐛 18 | 🌐 Python | 📅 2026-10-20 - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
-* [Planar](https://github.com/psydyllic/Planar.jl) ⭐ 12 | 🐛 1 | 🌐 Julia | 📅 2026-11-16 - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
+* [Planar](https://github.com/psydyllic/Planar.jl) ⭐ 12 | 🐛 1 | 🌐 Julia | 📅 2026-11-17 - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
 * [Frostybot-JS](https://github.com/JulienPlanchetCoineo/frostybot-js) ⭐ 7 | 🐛 0 | 🌐 CSS | 📅 2021-02-12 - Frostybot-JS is a cryptocurrency trading API endpoint designed to execute webhooks as orders on an exchange
 
 ## Technical analysis libraries
 
-* [ta-lib](https://github.com/mrjbq7/ta-lib) ⭐ 12,416 | 🐛 88 | 🌐 Cython | 📅 2026-11-11 - A widely used library by trading software developers requiring to perform technical analysis of financial market data.
-* [ta](https://github.com/bukosabino/ta) ⭐ 5,257 | 🐛 160 | 🌐 Jupyter Notebook | 📅 2026-03-18 - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
+* [ta-lib](https://github.com/mrjbq7/ta-lib) ⭐ 12,419 | 🐛 88 | 🌐 Cython | 📅 2026-11-11 - A widely used library by trading software developers requiring to perform technical analysis of financial market data.
+* [ta](https://github.com/bukosabino/ta) ⭐ 5,259 | 🐛 160 | 🌐 Jupyter Notebook | 📅 2026-03-18 - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
 * [catalyst](https://github.com/enigmampc/catalyst) ⚠️ Archived - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
-* [ta4j](https://github.com/ta4j/ta4j) ⭐ 2,533 | 🐛 26 | 🌐 Java | 📅 2026-11-17 - Ta4j is an open source Java library for technical analysis. It provides the basic components for creation, evaluation and execution of trading strategies.
+* [ta4j](https://github.com/ta4j/ta4j) ⭐ 2,534 | 🐛 27 | 🌐 Java | 📅 2026-11-17 - Ta4j is an open source Java library for technical analysis. It provides the basic components for creation, evaluation and execution of trading strategies.
 * [technicalindicators](https://github.com/anandanand84/technicalindicators) ⭐ 2,454 | 🐛 86 | 🌐 JavaScript | 📅 2022-11-03 - A JS library with 20+ technical indicators and 30+ candlestick patterns.
 * [finta](https://github.com/peerchemist/finta) ⚠️ Archived - Common financial technical indicators implemented in Pandas.
 * [tulipindicators](https://github.com/TulipCharts/tulipindicators) ⭐ 944 | 🐛 35 | 🌐 C | 📅 2024-02-02 - A technical analysis indicator function library in C.
 * [TechAn](https://github.com/sdcoffey/techan) ⭐ 907 | 🐛 17 | 🌐 Go | 📅 2026-09-04 - TechAn is a technical analysis library for Go! It provides basic and advanced technical analysis indicators, profit and trade analysis and strategy building.
-* [ta-rs](https://github.com/greyblake/ta-rs) ⭐ 876 | 🐛 15 | 🌐 Rust | 📅 2024-07-12 -  Technical analysis library for Rust language.
+* [ta-rs](https://github.com/greyblake/ta-rs) ⭐ 878 | 🐛 15 | 🌐 Rust | 📅 2024-07-12 -  Technical analysis library for Rust language.
 * [pyti](https://github.com/kylejusticemagnuson/pyti) ⭐ 668 | 🐛 18 | 🌐 Python | 📅 2026-06-26 -  Python library of various financial technical indicators.
 * [tulipnode](https://github.com/TulipCharts/tulipnode) ⭐ 515 | 🐛 18 | 🌐 JavaScript | 📅 2023-06-28 - Official Node.js wrapper for Tulip Indicators.
 * [stocklook](https://github.com/zbarge/stocklook) ⭐ 172 | 🐛 6 | 🌐 Python | 📅 2018-06-22 - A crypto currency library for trading & market making bots, account management, and data analysis.
@@ -68,12 +68,11 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 ## Market data libraries
 
-* [ccxt](https://github.com/ccxt/ccxt) ⭐ 44,898 | 🐛 740 | 🌐 Python | 📅 2026-11-16 - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
+* [ccxt](https://github.com/ccxt/ccxt) ⭐ 44,909 | 🐛 753 | 🌐 Python | 📅 2026-11-17 - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
 * [python-binance](https://github.com/sammchardy/python-binance) ⭐ 7,226 | 🐛 534 | 🌐 Python | 📅 2026-06-08 - Binance Exchange API python implementation for automated trading.
 * [node-binance-api](https://github.com/jaggedsoft/node-binance-api) ⭐ 1,672 | 🐛 295 | 🌐 TypeScript | 📅 2026-10-31 - A Node.js library for the Binance API designed to be easy to use.
 * [ccxws](https://github.com/altangent/ccxws) ⚠️ Archived - A JavaScript library for connecting to realtime public APIs on all cryptocurrency exchanges.
 * [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) ⚠️ Archived - A self hosted unified REST API to various exchanges (can be used to automate trading or build bots).
-* [blockatlas](https://github.com/trustwallet/blockatlas) ⚠️ Archived - A clean and lightweight cross-chain transaction API.
 * [bybit-api](https://github.com/tiagosiebler/bybit-api) ⭐ 352 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-16 - A complete, typed & heavily tested TypeScript/Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.
 * [okx-api](https://github.com/tiagosiebler/okx-api) ⭐ 169 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-16 - A typed & heavily tested TypeScript/Node.js library for the OKX (OKEX) REST APIs and Websockets, available on npm, for the backend and the browser.
 * [coinnect](https://github.com/hugues31/coinnect) ⭐ 157 | 🐛 8 | 🌐 Rust | 📅 2021-11-30 - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
@@ -82,6 +81,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [asynchuobi](https://github.com/sometastycake/asynchuobi) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-02-08 - Python client for Huobi (REST and WebSocket).
 * [binance](https://github.com/tiagosiebler/binance) ⭐ 0 | 🐛 0 | 📅 2026-10-26 - A typed & heavily tested TypeScript/Node.js library for the Binance REST APIs and Websockets, available on npm, for the backend and the browser.
 * [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken.
+* [blockatlas](https://github.com/trustwallet/blockatlas) - A clean and lightweight cross-chain transaction API.
 
 ## API and data providers
 
@@ -103,8 +103,8 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 ## Charting libraries
 
-* [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) ⭐ 17,880 | 🐛 105 | 🌐 TypeScript | 📅 2026-11-16 - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
-* [KLineChart ](https://github.com/klinecharts/KLineChart/) ⭐ 4,311 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-16 - Lightweight k-line chart that can be highly customized.
+* [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) ⭐ 17,891 | 🐛 113 | 🌐 TypeScript | 📅 2026-11-16 - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
+* [KLineChart ](https://github.com/klinecharts/KLineChart/) ⭐ 4,313 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-16 - Lightweight k-line chart that can be highly customized.
 * [TradingVue.js](https://github.com/tvjsx/trading-vue-js) ⭐ 2,312 | 🐛 77 | 🌐 JavaScript | 📅 2024-06-24 - Hackable charting library for traders built for vue.js applications.
 * [TradeX-Chart](https://github.com/tradex-app/TradeX-chart) ⭐ 182 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-21 - TradeX Chart is a trade / stock chart written in plain (vanilla) JavaScript with mobile support
 * [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
@@ -114,7 +114,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 Production-grade Rust-native trading engine with deterministic event-driven architecture
 
-* [Wealthfolio](https://github.com/wealthfolio/wealthfolio) ⭐ 9,463 | 🐛 525 | 🌐 Rust | 📅 2026-11-16 - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
+* [Wealthfolio](https://github.com/wealthfolio/wealthfolio) ⭐ 9,513 | 🐛 527 | 🌐 Rust | 📅 2026-11-18 - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) ⭐ 164 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-11 - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) ⭐ 99 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-15 - A collection of examples for working with various crypto exchange APIs and WebSockets.
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) ⭐ 60 | 🐛 1 | 🌐 Python | 📅 2024-06-06 - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
@@ -136,4 +136,4 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
